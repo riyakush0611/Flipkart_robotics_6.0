@@ -1,23 +1,28 @@
-# Flipkart_robotics_6.0
-# Smart Product Analysis Dashboard
+# Flipkart_robotics_6.0 
+Project Title: "SmartVision: AI-Powered inventory management for eCommerce"
+# You can check here ----> https://robotics-teamyuktika.netlify.app/
+"SmartVision: AI-Powered inventory management for eCommerce"
 # Project Overview:
 The Smart Product Analysis Dashboard is a comprehensive quality control solution designed for the e-commerce and manufacturing industries. It leverages camera vision technology, machine learning, and advanced image processing techniques to automate product quality testing. This system is capable of extracting important product information, identifying brand details, counting objects, and detecting product freshness, making it a versatile tool for industry automation.
 
 **Features:**
 Manufacturing & Expiry Extraction (Task 1):
+**Github link ---> https://github.com/Kanakt326/mexp
 
 Utilizes Optical Character Recognition (OCR) to extract manufacturing dates, expiry dates, and batch details from product packaging.
 Automates validation of shelf life to ensure timely stocking and inventory control.
 Brand Recognition & Object Counting (Task 2):
+**Github link --> https://github.com/Priya-161/Count_and_Brand
 
 Employs image recognition models to identify product brands and validate packaging based on specific features like logo, text, and design.
 Includes object counting functionality for accurate inventory management, ensuring the correct number of products are processed.
 Freshness Index Detection (Task 3):
+**Github link --> https://github.com/Priya-161/shelf_life
 
 Analyzes visual cues such as color, texture, and surface patterns to assess the freshness of perishable products like fruits and vegetables.
 Provides real-time freshness scores to prevent spoiled goods from entering the supply chain.
 Product Detail Extraction (Task 4):
-
+**Github link -->  https://github.com/riyakush0611/image_extraction 
 Extracts detailed product information such as weight, size, category, and specifications from packaging.
 Ensures compliance with labeling standards and enhances product tracking efficiency.
 Ready for Delivery (Task 5):
