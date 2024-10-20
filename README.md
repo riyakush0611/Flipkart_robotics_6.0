@@ -9,7 +9,7 @@ The Smart Product Analysis Dashboard is a comprehensive quality control solution
 ## Manufacturing & Expiry Extraction (Task 1):
 **Github link ---> https://github.com/Kanakt326/mexp**
 
-# Extracts manufacturing and expiry date of products packaging using paddleocr.Helps  manage inventory more efficiently by flagging soon-to-expire products, enabling proactive restocking and promotions.
+Extracts manufacturing and expiry date of products packaging using paddleocr.Helps  manage inventory more efficiently by flagging soon-to-expire products, enabling proactive restocking and promotions.
 
 ## Brand Recognition & Object Counting (Task 2):
 **Github link --> https://github.com/Priya-161/Count_and_Brand**
@@ -36,5 +36,7 @@ Logistics: Improving inventory control and shipment accuracy by ensuring product
 
 **Benefits:** Accurate product identification, reduced manual effort, real-time data logging, and enhanced inventory management.
 The system automatically rejects defective products, records quality data, and provides real-time feedback for inventory management.
+
+
 **Conclusion:**
 The Smart Quality Test System offers a scalable and efficient solution for product inspection and quality control in eCommerce.It directly addresses challenges like expiration date management, brand authentication, freshness detection, and object counting, which are critical in high-volume ecommerce environments.
