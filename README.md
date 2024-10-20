@@ -1,6 +1,6 @@
 # Flipkart_robotics_6.0 
 Project Title: "SmartVision: AI-Powered inventory management for eCommerce"
-**You can check here ----> https://robotics-teamyuktika.netlify.app/
+## You can check here ----> https://robotics-teamyuktika.netlify.app/
 # "SmartVision: AI-Powered inventory management for eCommerce"
 # Project Overview:
 The Smart Product Analysis Dashboard is a comprehensive quality control solution designed for the e-commerce and manufacturing industries. It leverages camera vision technology, machine learning, and advanced image processing techniques to automate product quality testing. This system is capable of extracting important product information, identifying brand details, counting objects, and detecting product freshness, making it a versatile tool for industry automation.
