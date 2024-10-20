@@ -7,22 +7,22 @@ The Smart Product Analysis Dashboard is a comprehensive quality control solution
 
 **Features:**
 Manufacturing & Expiry Extraction (Task 1):
-**Github link ---> https://github.com/Kanakt326/mexp
+**Github link ---> https://github.com/Kanakt326/mexp**
 
 Utilizes Optical Character Recognition (OCR) to extract manufacturing dates, expiry dates, and batch details from product packaging.
 Automates validation of shelf life to ensure timely stocking and inventory control.
 Brand Recognition & Object Counting (Task 2):
-**Github link --> https://github.com/Priya-161/Count_and_Brand
+**Github link --> https://github.com/Priya-161/Count_and_Brand**
 
 Employs image recognition models to identify product brands and validate packaging based on specific features like logo, text, and design.
 Includes object counting functionality for accurate inventory management, ensuring the correct number of products are processed.
 Freshness Index Detection (Task 3):
-**Github link --> https://github.com/Priya-161/shelf_life
+**Github link --> https://github.com/Priya-161/shelf_life**
 
 Analyzes visual cues such as color, texture, and surface patterns to assess the freshness of perishable products like fruits and vegetables.
 Provides real-time freshness scores to prevent spoiled goods from entering the supply chain.
 Product Detail Extraction (Task 4):
-**Github link -->  https://github.com/riyakush0611/image_extraction 
+**Github link -->  https://github.com/riyakush0611/image_extraction**
 Extracts detailed product information such as weight, size, category, and specifications from packaging.
 Ensures compliance with labeling standards and enhances product tracking efficiency.
 Ready for Delivery (Task 5):
